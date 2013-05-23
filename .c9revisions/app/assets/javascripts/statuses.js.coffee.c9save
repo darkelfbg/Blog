@@ -1,0 +1,7 @@
+{"ts":1369300879553,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"# Place all the behaviors and hooks related to the matching controller here.\n# All this logic will automatically be available in application.js.\n# You can use CoffeeScript in this file: http://jashkenas.github.com/coffee-script/\n"]],"start1":0,"start2":0,"length1":0,"length2":229}]],"length":229}
+{"contributors":[],"silentsave":false,"ts":1369338329592,"patch":[[{"diffs":[[0,"script/\n"],[1,"\n\n$ ->\n    $(\".status\").hover (event) ->\n        console.log(\"hover trig\"\");"]],"start1":221,"start2":221,"length1":8,"length2":84}]],"length":305,"saved":false}
+{"ts":1369338345424,"patch":[[{"diffs":[[0,"er trig\""],[-1,"\""],[0,");"]],"start1":294,"start2":294,"length1":11,"length2":10}]],"length":304,"saved":false}
+{"ts":1369338461170,"patch":[[{"diffs":[[0,"    "],[-1,"console.log"],[1,"\n        $(this).toggleClass"],[0,"(\"hover"],[-1," trig"],[0,"\");"]],"start1":274,"start2":274,"length1":30,"length2":42}]],"length":316,"saved":false}
+{"ts":1369338494129,"patch":[[{"diffs":[[0," ->\n"],[-1,"        \n"],[0,"    "]],"start1":266,"start2":266,"length1":17,"length2":8}]],"length":307,"saved":false}
+{"ts":1369338516045,"patch":[[{"diffs":[[0,"er\")"],[-1,";"]],"start1":302,"start2":302,"length1":5,"length2":4}]],"length":306,"saved":false}
+{"ts":1369338563967,"patch":[[{"diffs":[[0,"\"hover\")"],[1,";"]],"start1":298,"start2":298,"length1":8,"length2":9}]],"length":307,"saved":false}
